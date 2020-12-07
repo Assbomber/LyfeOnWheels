@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "584493079532",
+    "firebase_url": "https://lyfeonwheels-c6528.firebaseio.com",
+    "project_id": "lyfeonwheels-c6528",
+    "storage_bucket": "lyfeonwheels-c6528.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:584493079532:android:187bb74ccbb58f003abec9",
+        "android_client_info": {
+          "package_name": "com.example.lyfeonwheels"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "584493079532-trl8004j6i6e25ag1g1cjn6ltspuu80n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJkOhDW0-ncvgX47LHTKOGo2St9kLIbso"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "584493079532-trl8004j6i6e25ag1g1cjn6ltspuu80n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
